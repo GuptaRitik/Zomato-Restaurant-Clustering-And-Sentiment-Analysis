@@ -16,5 +16,6 @@ Technologies Used
 - Numpy
 - Seaborn
 - NLTK
-- Conclusion
+
+Conclusion
 Overall, this project involved various data analysis techniques, including NLP, clustering, and dimensionality reduction, to provide insights into the restaurant industry and improve their performance. The resulting clusters could be used to help restaurant owners make data-driven decisions and improve their operations.
